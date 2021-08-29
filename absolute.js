@@ -1,4 +1,4 @@
-var num5 = 0;
+var num5;
 let absolute;
 if(num5<0){
     num5*=(-1);

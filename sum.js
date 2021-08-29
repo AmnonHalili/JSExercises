@@ -1,4 +1,4 @@
-const num1=111, num2=222, num3=333;
+const num1, num2, num3;
 
 let sum = 0
 
